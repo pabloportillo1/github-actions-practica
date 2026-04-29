@@ -1,0 +1,24 @@
+{
+  "name": "github-actions-practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloportillo1/github-actions-practica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pabloportillo1/github-actions-practica/issues"
+  },
+  "homepage": "https://github.com/pabloportillo1/github-actions-practica#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
